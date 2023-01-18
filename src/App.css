@@ -1,0 +1,57 @@
+/* Styling for parent component (App.js) */
+.app-main-div{
+  text-align: center;
+  border:1px solid black;
+  margin:20px;
+  padding:10px;
+  margin-bottom: 100px;
+}
+
+
+/* Styling for main div of Child1 component */
+.child-1-main-div{
+  text-align: center;
+  border:1px solid blue;
+  margin:5px;
+  padding-bottom: 20px;
+}
+
+/* Styling for buttons in Child1 component */
+button{
+  background-color: white;
+  border:1px solid blue;
+  border-radius: 1rem;
+  padding:10px;
+  margin:10px;
+}
+
+button:hover{
+  cursor:pointer;
+}
+.value-span-1{
+  color:blue;
+  font-size: large;
+}
+
+
+/* Styling for Child2 component */
+.child-2-main-div{
+  text-align: center;
+  border:1px solid green;
+  margin:5px;
+  padding-bottom: 20px;
+}
+
+.value-span-2{
+  color:darkgreen;
+  font-size: large;
+}
+
+.file-name-p{
+  font-style: italic;
+}
+
+
+
+
+
