@@ -18,7 +18,8 @@
 
 /* Styling for buttons in Child1 component */
 button{
-  background-color: white;
+  background-color: blue;
+  color:white;
   border:1px solid blue;
   border-radius: 1rem;
   padding:10px;
